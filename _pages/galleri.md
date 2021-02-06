@@ -10,7 +10,7 @@ permalink: /galleri
 Stig svart sol (2021)
 
 
-![](/assets/Bränn allt.png)
+![](/assets/Bränn allt.jpg)
 
 Bränn allt(2020)
 
