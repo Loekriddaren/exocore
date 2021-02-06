@@ -4,13 +4,12 @@ title: Galleri
 id: galleri
 permalink: /galleri
 ---
-Tryck på titeln för hög upplösning.
 
 ![](/assets/Stig svart sol liten.jpg)
-[[Stig svart sol (2021)]]
+Stig svart sol (2021)
 
 ![](/assets/Bränn allt liten.jpg)
-[[Bränn allt (2020)]]
+Bränn allt (2020)
 
 ![](/assets/Vandrare liten.jpg)
 Vandrare (2020)
