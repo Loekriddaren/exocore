@@ -5,16 +5,9 @@ id: home
 permalink: /
 ---
 
-![study-monk](/assets/image.jpg)
+![skog](/assets/intro.jpg)
 
-## Features
-
-- Based on Jekyll, a static, standards-compliant website generator with lightweight & responsive design
-- Supports Markdown and HTML notes
-- Supports Roam/Obsidian-style double bracket link syntax to other notes
-- Creates backlinks to other notes automatically
-- Features link previews on hover
-- Features graph visualization of the notes and their links
+Korta reflektioner i [Dagboken](dagbok)
 
 ## Effortless Launch
 
