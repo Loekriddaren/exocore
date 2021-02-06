@@ -4,10 +4,10 @@ title: Galleri
 id: galleri
 permalink: /galleri
 ---
-[[Stig svart sol]]
+Tryck under bilden för högre upplösning.
 
 ![](/assets/Stig svart sol.jpg)
-Stig svart sol (2021)
+[Stig svart sol (2021)](Stig svart sol)
 
 ![](/assets/Bränn allt.jpg)
 Bränn allt(2020)
@@ -60,8 +60,8 @@ Himlens avgrund (2019)
 ![](/assets/Himlen bortom.jpg)
 Himlen bortom (2019)
 
-![](/assets/Alltings slut.jpg)
-Alltings slut (2019)
+![](/assets/Alltings slut liten.jpg)
+[Alltings slut (2019)](Alltings slut)
 
 ![](/assets/Solnedgång över Trojas hav.jpg)
 Solnedgång över Trojas hav (2019)
