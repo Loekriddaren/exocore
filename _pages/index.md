@@ -7,10 +7,6 @@ permalink: /
 
 ![study-monk](/assets/image.jpg)
 
-Preconfigured template to roll out your own no-code, no-cost personal website as a public exocortex from documents written in simple Markdown syntax, including interlinking, generated backlinks and a nodal graph-rendering. Site's are rendered in fast, responsive, standards-compliant static HTML. 
-
-No downloads or installation required, site is hosted and served through Github & Netlify - automated setup takes 5 minutes.
-
 ## Features
 
 - Based on Jekyll, a static, standards-compliant website generator with lightweight & responsive design
