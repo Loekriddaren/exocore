@@ -7,7 +7,7 @@ permalink: /
 
 ![skog](/assets/intro.jpg)
 
-## Titta vad jag samlat på.
+## Låt mig berätta om vad jag sett.
 
 Korta reflektioner i [Dagboken](dagbok)
 
