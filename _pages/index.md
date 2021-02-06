@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Välkommen till min stuga
+title: Slå dig ner en stund
 id: home
 permalink: /
 ---
 
 ![skog](/assets/intro.jpg)
 
-## Sätt dig ner, och titta vad jag samlat på.
+## Titta vad jag samlat på.
 
 Korta reflektioner i [Dagboken](dagbok)
 
 Målningar i [Galleriet](galleri)
 
-Skisser finns i [Byrålådan](byrå)
+Skisser i [Byrålådan](byrå)
 
 Publicerade texter i [Biblioteket](bibliotek)
