@@ -7,7 +7,7 @@ permalink: /
 
 ![skog](/assets/intro.jpg)
 
-Sätt dig ner, och titta vad jag samlat på.
+##Sätt dig ner, och titta vad jag samlat på.
 
 Korta reflektioner i [Dagboken](dagbok)
 
