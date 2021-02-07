@@ -6,7 +6,7 @@ permalink: /galleri
 ---
 
 ![](/assets/Stig svart sol liten.jpg)
-Stig svart sol (2021)
+[[Stig svart sol]] (2021)
 
 ![](/assets/Bränn allt liten.jpg)
 Bränn allt (2020)

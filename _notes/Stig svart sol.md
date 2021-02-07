@@ -1,5 +1,4 @@
 ---
-title: Stig svart sol (2021)
+title: Stig svart sol
 ---
-
 ![](/assets/Stig svart sol.jpg)
