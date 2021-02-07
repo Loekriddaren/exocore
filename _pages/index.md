@@ -16,5 +16,3 @@ Målningar i [Galleriet](galleri)
 Skisser i [Byrålådan](byrå)
 
 Publicerade texter i [Biblioteket](bibliotek)
-
-[Om mig](about)
