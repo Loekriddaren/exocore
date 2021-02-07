@@ -127,7 +127,7 @@ permalink: /dagbok
 
 [[Om fria kvinnor]]
 
-[[Vandrare]]
+[[Vandrare och främling]]
 
 [[Innebörden i att vara höger]]
 
@@ -153,7 +153,7 @@ permalink: /dagbok
 
 [[Inga tradwaifus]]
 
-[[Hammare och frihet]]
+[[Frihetens hammare]]
 
 [[Om intuition]]
 

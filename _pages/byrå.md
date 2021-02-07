@@ -12,7 +12,7 @@ Frisyrer från Hyperborea
 Waifu
 
 ![](/assets/Nordisk skymning.jpg)
-En nordsik skymning
+En nordisk skymning
 
 ![](/assets/Min valkyria kan omöjligen vara så här söt.jpg)
 Min valkyria kan omöjligen vara så här söt

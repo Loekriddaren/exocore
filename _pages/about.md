@@ -12,6 +12,7 @@ Jag är en ensam vandrare i vintern, krokig som trädens nakna grenar. En shaman
 Vi lever inte i en förfallen tidsålder. På samma sätt som neon kräver natten, så är vår tids mörker den djupblåa duken för en alldeles särskild form av skönhet, som världen ännu inte sett. 
 
 Gudarna tar inte världen nedanför på alltför stort allvar, och det borde inte heller vi göra. Skönhet är för dem en lek, och skönheten älskar de ibland oss som vet hur man leker.
+
 ---
 
 Kontakt: [Twitter](https://twitter.com/HenrikJonasson3)
