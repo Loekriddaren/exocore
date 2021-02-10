@@ -4,6 +4,8 @@ title: Bibliotek
 id: bibliotek
 permalink: /bibliotek
 ---
+[Antikens statyer](https://motpol.nu/henrikjonasson/2021/02/08/antikens-statyer/)
+Motpol 210208
 
 [Politisk drip](https://motpol.nu/henrikjonasson/2021/01/10/politisk-drip/)
 Motpol 210110
