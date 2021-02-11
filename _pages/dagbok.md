@@ -7,11 +7,13 @@ permalink: /dagbok
 
 ## Februari 2021
 
+[[Gamle gubbe Oden]]
+
 [[Svenskens enkla storhet]]
 
 [[En liten apa]]
 
-[[Gamla gubben Oden]]
+[[Krokiga gudar]]
 
 [[Gudarnas fula gunstling]]
 

@@ -4,6 +4,8 @@ title: Byrålåda
 id: byrå
 permalink: /byrå
 ---
+![](/assets/Gamle gubbe Oden.jpg)
+Gamle gubbe Oden
 
 ![](/assets/Hyperborea.jpg)
 Frisyrer från Hyperborea
