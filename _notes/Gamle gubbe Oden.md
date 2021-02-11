@@ -1,7 +1,7 @@
 ---
 title: Gamle gubbe Oden
 ---
-[]!(/assets/Gamle gubbe Oden.jpg)
+![](/assets/Gamle gubbe Oden.jpg)
 
 Gamla gubbe Oden! Du kommer ge mig tillräckligt med strid och död en dag. Vi har ingen brådska. Just nu tänker jag på alla lustiga stigar du spänt över skog och äng, på alla små rötter vi människor snubblar över. Du gömmer dig och skrattar, men en dag ska jag skratta åt dig.
 
