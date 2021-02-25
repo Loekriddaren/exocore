@@ -4,6 +4,12 @@ title: Byrålåda
 id: byrå
 permalink: /byrå
 ---
+![](/assets/Skogen ruvar.jpg)
+Skogen ruvar
+
+![](/assets/inte världens undergång.jpg)
+(Inte) världens undergång
+
 ![](/assets/Gamle gubbe Oden.jpg)
 Gamle gubbe Oden
 
